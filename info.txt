@@ -1,2 +1,4 @@
-http://www.oracle.com/technetwork/java/codeconvtoc-136057.html
-https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+Code Conventions - http://www.oracle.com/technetwork/java/codeconvtoc-136057.html
+Primitive Data Types - https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+Formatting Numeric Print Outputhttps - //docs.oracle.com/javase/tutorial/java/data/numberformat.html
+Unicode - https://unicode-table.com/en/
