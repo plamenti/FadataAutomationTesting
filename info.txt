@@ -1,3 +1,6 @@
+Good resource In BG
+http://www.introprogramming.info/intro-java-book/read-online/
+
 Code Conventions - http://www.oracle.com/technetwork/java/codeconvtoc-136057.html
 Primitive Data Types - https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 Formatting Numeric Print Outputhttps - //docs.oracle.com/javase/tutorial/java/data/numberformat.html
